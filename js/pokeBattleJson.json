@@ -1,0 +1,236 @@
+{
+  "my_pokemons": [
+    {
+      "id": 1,
+      "name": "CHARMELEON",
+      "type": [
+        "FIRE"
+      ],
+      "moves": {
+        "SCRATCH": {
+          "type": []
+        },
+        "GROWL": {
+          "type": []
+        },
+        "EMBER": {
+          "type": [
+            "FIRE"
+          ]
+        },
+        "METAL CLAW": {
+          "type": [
+            "STEEL"
+          ]
+        }
+      },
+      "picture": "https://www.bing.com/search?q=obrazek&qs=n&form=QBRE&sp=-1&lq=0&pq=obrazek&sc=10-7&sk=&cvid=F051A232B45946D4A49527378D3761CF&ghsh=0&ghacc=0&ghpl="
+    },
+    {
+      "id": 2,
+      "name": "PIKACHU",
+      "type": [
+        "ELECTRIC"
+      ],
+      "moves": {
+        "THUNDERSHOCK": {
+          "type": [
+            "ELECTRIC"
+          ]
+        },
+        "QUICK ATTACK": {
+          "type": [
+            "NORMAL"
+          ]
+        },
+        "DOUBLE TEAM": {
+          "type": []
+        },
+        "THUNDER WAVE": {
+          "type": [
+            "ELECTRIC"
+          ]
+        }
+      },
+      "picture": "https://www.bing.com/search?q=obrazek&qs=n&form=QBRE&sp=-1&lq=0&pq=obrazek&sc=10-7&sk=&cvid=F051A232B45946D4A49527378D3761CF&ghsh=0&ghacc=0&ghpl="
+    },
+    {
+      "id": 3,
+      "name": "NIDORINO",
+      "type": [
+        "POISON"
+      ],
+      "moves": {
+        "PECK": {
+          "type": [
+            "FLYING"
+          ]
+        },
+        "LEER": {
+          "type": []
+        },
+        "POISON STING": {
+          "type": [
+            "POISON"
+          ]
+        },
+        "DOUBLE KICK": {
+          "type": [
+            "FIGHTING"
+          ]
+        }
+      },
+      "picture": "https://www.bing.com/search?q=obrazek&qs=n&form=QBRE&sp=-1&lq=0&pq=obrazek&sc=10-7&sk=&cvid=F051A232B45946D4A49527378D3761CF&ghsh=0&ghacc=0&ghpl="
+    },
+    {
+      "id": 4,
+      "name": "MANKEY",
+      "type": [
+        "FIGHTING"
+      ],
+      "moves": {
+        "SCRATCH": {
+          "type": []
+        },
+        "LEER": {
+          "type": []
+        },
+        "LOW KICK": {
+          "type": [
+            "FIGHTING"
+          ]
+        },
+        "KARATE CHOP": {
+          "type": [
+            "FIGHTING"
+          ]
+        }
+      },
+      "picture": "https://www.bing.com/search?q=obrazek&qs=n&form=QBRE&sp=-1&lq=0&pq=obrazek&sc=10-7&sk=&cvid=F051A232B45946D4A49527378D3761CF&ghsh=0&ghacc=0&ghpl="
+    }
+  ],
+  "enemy_pokemons": [
+    {
+      "id": 1,
+      "name": "PIDGEOTTO",
+      "type": [
+        "NORMAL",
+        "FLYING"
+      ],
+      "moves": {
+        "GUST": {
+          "type": [
+            "FLYING"
+          ]
+        },
+        "QUICK ATTACK":  {
+          "type": [
+            "NORMAL"
+          ]
+        },
+        "TWISTER":  {
+          "type": [
+            "DRAGON",
+            "FLYING"
+          ]
+        },
+        "WING ATTACK": {
+          "type": [
+            "FLYING"
+          ]
+        }
+      },
+      "picture": "https://www.bing.com/search?q=obrazek&qs=n&form=QBRE&sp=-1&lq=0&pq=obrazek&sc=10-7&sk=&cvid=F051A232B45946D4A49527378D3761CF&ghsh=0&ghacc=0&ghpl="
+    },
+    {
+      "id": 2,
+      "name": "SQUIRTLE",
+      "type": [
+        "WATER"
+      ],
+      "moves": {
+        "WATER GUN": {
+          "type": [
+            "WATER"
+          ]
+        },
+        "BUBBLE": {
+          "type": [
+            "WATER"
+          ]
+        },
+        "BITE": {
+          "type": [
+            "DARK"
+          ]
+        },
+        "WITHDRAW": {
+          "type": [
+            "WATER"
+          ]
+        }
+      },
+      "picture": "https://www.bing.com/search?q=obrazek&qs=n&form=QBRE&sp=-1&lq=0&pq=obrazek&sc=10-7&sk=&cvid=F051A232B45946D4A49527378D3761CF&ghsh=0&ghacc=0&ghpl="
+    },
+    {
+      "id": 3,
+      "name": "ABRA",
+      "type": [
+        "PSYCHIC"
+      ],
+      "moves": {
+        "TELEPORT": {
+          "type": [
+            "PSYCHIC"
+          ]
+        },
+        "PSYBEAM": {
+          "type": [
+            "PSYCHIC"
+          ]
+        },
+        "CONFUSION": {
+          "type": [
+            "PSYCHIC"
+          ]
+        },
+        "SHADOW BALL": {
+          "type": [
+            "GHOST"
+          ]
+        }
+      },
+      "picture": "https://www.bing.com/search?q=obrazek&qs=n&form=QBRE&sp=-1&lq=0&pq=obrazek&sc=10-7&sk=&cvid=F051A232B45946D4A49527378D3761CF&ghsh=0&ghacc=0&ghpl="
+    },
+    {
+      "id": 4,
+      "name": "RATTATA",
+      "type": [
+        "NORMAL"
+      ],
+      "moves": {
+        "TACKLE": {
+          "type": [
+            "NORMAL"
+          ]
+        },
+        "HYPER FANG": {
+          "type": [
+            "NORMAL"
+          ]
+        },
+        "QUICK ATTACK": {
+          "type": [
+            "NORMAL"
+          ]
+        },
+        "CRUNCH": {
+          "type": [
+            "DARK"
+          ]
+        }
+      },
+      "picture": "https://www.bing.com/search?q=obrazek&qs=n&form=QBRE&sp=-1&lq=0&pq=obrazek&sc=10-7&sk=&cvid=F051A232B45946D4A49527378D3761CF&ghsh=0&ghacc=0&ghpl="
+    }
+  ]
+}
