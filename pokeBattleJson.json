@@ -24,7 +24,7 @@
           ]
         }
       },
-      "picture": "https://pngimg.com/uploads/pokemon/pokemon_PNG14.png"
+      "picture": "https://img.pokemondb.net/artwork/large/charmeleon.jpg"
     },
     {
       "id": 2,
@@ -80,7 +80,7 @@
           ]
         }
       },
-      "picture": "https://pngimg.com/uploads/pokemon/pokemon_PNG14.png"
+      "picture": "https://orig00.deviantart.net/934b/f/2016/073/3/f/033_nidorino_by_rayo123000-d9v2f3j.png"
     },
     {
       "id": 4,
@@ -106,7 +106,7 @@
           ]
         }
       },
-      "picture": "https://pngimg.com/uploads/pokemon/pokemon_PNG14.png"
+      "picture": "https://wallpapercave.com/wp/wp3906064.png"
     }
   ],
   "enemy_pokemons": [
@@ -140,7 +140,7 @@
           ]
         }
       },
-      "picture": "https://pngimg.com/uploads/pokemon/pokemon_PNG14.png"
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png"
     },
     {
       "id": 2,
@@ -170,7 +170,7 @@
           ]
         }
       },
-      "picture": "https://pngimg.com/uploads/pokemon/pokemon_PNG14.png"
+      "picture": "https://www.listchallenges.com/f/items/d81ccc66-9c72-4a14-abb6-5b7460fe7a2f.jpg"
     },
     {
       "id": 3,
@@ -200,7 +200,7 @@
           ]
         }
       },
-      "picture": "https://pngimg.com/uploads/pokemon/pokemon_PNG14.png"
+      "picture": "https://img.pokemondb.net/artwork/vector/large/abra.png"
     },
     {
       "id": 4,
@@ -230,7 +230,7 @@
           ]
         }
       },
-      "picture": "https://pngimg.com/uploads/pokemon/pokemon_PNG14.png"
+      "picture": "https://i.pinimg.com/474x/27/93/ad/2793ade11462edf09c5e227ca2af6ccb--pokemon-manual.jpg"
     }
   ]
 }
